@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="image_view_name">Play image</string>
+    <string name="text_view_name">Hang word</string>
+    <string name="image_view_desc">Play image that changes each time a guess is incorrect</string>
+    <string name="text_view_desc">Displays the hang word</string>
+    <string name="input_letter_desc">Click a letter to guess</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="q">Q</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="play_button_name">Play</string>
+    <string name="play_button_desc">Plays the game</string>
+    <string name="stat_button_name">Stats</string>
+    <string name="stat_button_desc">Show stats</string>
+    <string name="category"> </string>
+    <string name="cat_desc">Displays category name</string>
+    <string name="word_reveal">The answer was </string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="play_next_text">Continue?</string>
+    <string name="reveal">The answer was </string>
+    <string name="rip">RIP</string>
+    <string name="stats_title">Statistics</string>
+    <string name="rounds_won_view">Number of Rounds Won: </string>
+    <string name="rounds_quit_view">Number of Rounds Quit: </string>
+    <string name="rounds_lost_view">Number of Rounds Lost: </string>
+    <string name="win_streak_view">Highest Win Streak: </string>
+    <string name="rounds_played_text">Number of Rounds Played: </string>
+    <string name="highest_round_stat">Highest Round Reached: </string>
+    <string name="back_button">Back</string>
+    <string name="quit_text">Give up?</string>
+    <string name="quit_game">Do you want to quit?</string>
+    <string name="quit_button">GIVE UP</string>
+    <string name="skips_text">Number of Skips Used: </string>
+    <string name="skip_button">SKIP</string>
+    <string name="skipping">Do you want to skip?</string>
+    <string name="skip_button_desc">Button for skipping round</string>
+    <string name="version">v1.1</string>
+    <string name="lives">Lives</string>
+    <string name="game_over_stat">Number of Game Overs:</string>
+    <string name="game_over">Game Over</string>
+    <string name="level">Player Level:</string>
+    <string name="level_output"> </string>
+    <string name="select_category">Select A Category</string>
+    <string name="random_category">RANDOM</string>
+    <string name="dictionary_category">DICTIONARY</string>
+    <string name="movie_category">MOVIES</string>
+    <string name="music_category">MUSIC</string>
+    <string name="gaming_category">GAMING</string>
+    <string name="sport_category">SPORT</string>
+    <string name="science_category">SCIENCE</string>
+    <string name="animal_category">ANIMALS</string>
+    <string name="special_category">FESTIVE</string>
+    <string name="household_category">HOUSEHOLD</string>
+    <string name="congrats_screen">CONGRATULATIONS!</string>
+    <string name="congrats_default_text">You have found all of the \n
+                                        words in this category. \n \n
+                                        All words will now be  \n
+                                        shuffled and repeated. \n \n \n
+                                        - Tap the screen to continue -
+    </string>
+    <string name="ad_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_test_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>

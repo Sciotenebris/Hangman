@@ -16,12 +16,24 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxhdpi\\hm_launcher.png"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_my_thud.wav.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\my_thud.wav"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_hm_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xhdpi\\hm_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_hm_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxxhdpi\\hm_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_hm_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-mdpi\\hm_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_three_lives.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\three_lives.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_my_thud.wav.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\my_thud.wav"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_hm_launcher_foreground.png.flat",
@@ -64,16 +76,16 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xhdpi\\hm_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_list_books.txt.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\list_books.txt"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_one_lives.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\one_lives.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_hm_launcher.xml.flat",
@@ -124,20 +136,16 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\one.png"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_five_lives.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\five_lives.png"
-    },
-    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_hm_launcher_round.xml.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-anydpi-v26\\hm_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_eight.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\eight.png"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_five_lives.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\five_lives.png"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_eight.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\eight.png"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_party_time.wav.flat",
@@ -152,24 +160,24 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\layout\\activity_menu.xml"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_hm_launcher_round.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-hdpi\\hm_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_nine.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\nine.png"
     },
     {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_hm_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\hm_launcher_foreground.xml"
+    },
+    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_list_festive.txt.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\list_festive.txt"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_alt.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\background_alt.xml"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_end.png.flat",
@@ -184,8 +192,8 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\list_music.txt"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_hm_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-hdpi\\hm_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_hm_launcher_foreground.png.flat",
@@ -200,8 +208,8 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\two_lives.png"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_five.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\five.png"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_icon.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\icon.png"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_lose.wav.flat",
@@ -216,8 +224,20 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-mdpi\\hm_launcher.png"
     },
     {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\font_quote.ttf.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\font\\quote.ttf"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_background.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_hm_launcher.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xhdpi\\hm_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -240,6 +260,10 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_five_title.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\five_title.png"
+    },
+    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_seven.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\seven.png"
     },
@@ -248,19 +272,27 @@
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\font\\underdog.ttf"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_my_rope.wav.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\my_rope.wav"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_grave.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\grave.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_list_places.txt.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\list_places.txt"
     },
     {
         "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_winning.png.flat",
         "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\winning.png"
     },
     {
-        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_hm_launcher_background.png.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxhdpi\\hm_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\raw_cheer.wav.flat",
+        "source": "C:\\Users\\44751\\AndroidStudioProjects\\Hangman\\app\\src\\main\\res\\raw\\cheer.wav"
     }
 ]

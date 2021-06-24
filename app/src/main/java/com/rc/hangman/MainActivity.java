@@ -429,7 +429,7 @@ public class MainActivity extends AppCompatActivity {
             playImage.setImageResource(R.drawable.six);
         }
         if (hangman.getGuessesLeft() == 5) {
-            playImage.setImageResource(R.drawable.five);
+            playImage.setImageResource(R.drawable.five_title);
         }
         if (hangman.getGuessesLeft() == 4) {
             playImage.setImageResource(R.drawable.four);

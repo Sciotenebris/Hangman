@@ -58,7 +58,7 @@
     <string name="skip_button">SKIP</string>
     <string name="skipping">Do you want to skip?</string>
     <string name="skip_button_desc">Button for skipping round</string>
-    <string name="version">v1.1</string>
+    <string name="version">v2.0</string>
     <string name="lives">Lives</string>
     <string name="game_over_stat">Number of Game Overs:</string>
     <string name="game_over">Game Over</string>
@@ -68,6 +68,8 @@
     <string name="random_category">RANDOM</string>
     <string name="dictionary_category">DICTIONARY</string>
     <string name="movie_category">MOVIES</string>
+    <string name="place_category">PLACES</string>
+    <string name="book_category">BOOKS</string>
     <string name="music_category">MUSIC</string>
     <string name="gaming_category">GAMING</string>
     <string name="sport_category">SPORT</string>

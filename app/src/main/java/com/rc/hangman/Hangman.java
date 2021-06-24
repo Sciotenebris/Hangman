@@ -34,7 +34,7 @@ public class Hangman {
     private Context context;
     private String answer, passedCategory, category, hangWord, outputWord, word;
     private SoundPool soundPool;
-    private int soundWood, soundRope, soundBody, soundWin, soundLose, soundCorrectGuess, uiSound, gameOverSound;
+    private int soundWood, soundRope, soundBody, soundWin, soundLose, soundCorrectGuess, uiSound, gameOverSound, soundWinAlt;
 
     public Hangman(Context context, String passedCategory) {
         this.context = context;
@@ -63,6 +63,7 @@ public class Hangman {
         soundBody = soundPool.load(context, R.raw.my_body, 1);
         soundLose = soundPool.load(context, R.raw.lose, 1);
         soundWin = soundPool.load(context, R.raw.party_time, 1);
+        soundWinAlt = soundPool.load(context, R.raw.cheer, 1);
         soundCorrectGuess = soundPool.load(context, R.raw.my_correct, 1);
         uiSound = soundPool.load(context, R.raw.my_clicker, 1);
         gameOverSound = soundPool.load(context,R.raw.my_game_over,1);
@@ -131,6 +132,14 @@ public class Hangman {
                     inputStream = context.getResources().openRawResource(R.raw.list_household);
                     category = "Household";
                     break;
+                case "place":
+                    inputStream = context.getResources().openRawResource(R.raw.list_places);
+                    category = "Places";
+                    break;
+                case "book":
+                    inputStream = context.getResources().openRawResource(R.raw.list_books);
+                    category = "Books";
+                    break;
             }
 
             try (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream))) {
@@ -148,7 +157,7 @@ public class Hangman {
      */
     public void randomCategory() {
 
-        int categoryNumber = random.nextInt(9);
+        int categoryNumber = random.nextInt(11);
 
         if (categoryNumber == 0) {
             category = "Dictionary";
@@ -177,6 +186,12 @@ public class Hangman {
         }else if (categoryNumber == 8) {
             category = "Household";
             inputStream = context.getResources().openRawResource(R.raw.list_household);
+        }else if (categoryNumber == 9) {
+            category = "Places";
+            inputStream = context.getResources().openRawResource(R.raw.list_places);
+        }else if (categoryNumber == 10) {
+            category = "Books";
+            inputStream = context.getResources().openRawResource(R.raw.list_books);
         }
 
         try (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream))) {
@@ -201,7 +216,12 @@ public class Hangman {
         displayedWord();
         if (!outputWord.contains("_")) {
             dictionary.remove(word);
-            soundPool.play(soundWin, 1, 1, 0, 0, 1);
+            int randomNumber = random.nextInt();
+                if(randomNumber % 2 == 0){
+                    soundPool.play(soundWin, 1, 1, 0, 0, 1);
+                }else {
+                    soundPool.play(soundWinAlt, 1, 1, 0, 0, 1);
+                }
         }
     }
 

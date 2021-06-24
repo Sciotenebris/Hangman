@@ -78,6 +78,9 @@ public class MenuActivity extends AppCompatActivity {
         TextView animalsCategoryButton = findViewById(R.id.animalCategory);
         TextView festiveCategory = findViewById(R.id.specialCategory);
         TextView householdCategory = findViewById(R.id.houseHoldCategory);
+        TextView placesCategory = findViewById(R.id.placesCategory);
+        TextView booksCategory = findViewById(R.id.booksCategory);
+
         menuScreen = findViewById(R.id.menuScreen);
         statScreen = findViewById(R.id.statScreen);
         quitScreen = findViewById(R.id.quitScreen);
@@ -186,6 +189,20 @@ public class MenuActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 intent.putExtra("category", "dictionary");
+                categoryClick();
+            }
+        });
+        placesCategory.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                intent.putExtra("category", "place");
+                categoryClick();
+            }
+        });
+        booksCategory.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                intent.putExtra("category", "book");
                 categoryClick();
             }
         });

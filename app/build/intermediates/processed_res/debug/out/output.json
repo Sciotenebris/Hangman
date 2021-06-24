@@ -10,8 +10,8 @@
       "apkData": {
         "type": "MAIN",
         "splits": [],
-        "versionCode": 3,
-        "versionName": "1.2",
+        "versionCode": 4,
+        "versionName": "2.0",
         "outputFile": "app-debug.apk",
         "fullName": "debug",
         "baseName": "debug",
@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.rc.hangman",
         "split": "",
-        "minSdkVersion": "19"
+        "minSdkVersion": "23"
       }
     }
   ]
